@@ -1,0 +1,301 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2302]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family
+    Vendor:   Intel
+    VRAM:     879 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=0 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kaylyn\Documents\Programming\Unity\IAT312-P3-Coded\DraetheasChoice_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kaylyn\Documents\Programming\Unity\IAT312-P3-Coded\DraetheasChoice_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kaylyn\Documents\Programming\Unity\IAT312-P3-Coded\DraetheasChoice_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kaylyn\Documents\Programming\Unity\IAT312-P3-Coded\DraetheasChoice_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  1.221 seconds
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 81.906136 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 554.
+Total: 11.361814 ms (FindLiveObjects: 0.114486 ms CreateObjectMapping: 0.033161 ms MarkObjects: 0.268451 ms  DeleteObjects: 0.032372 ms)
+
+UnloadTime: 1.318570 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 163 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 2.254992 ms (FindLiveObjects: 0.051321 ms CreateObjectMapping: 0.033161 ms MarkObjects: 0.204496 ms  DeleteObjects: 0.401887 ms)
+
+UnloadTime: 1.132233 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 529.
+Total: 3.069821 ms (FindLiveObjects: 0.078956 ms CreateObjectMapping: 0.051321 ms MarkObjects: 0.341880 ms  DeleteObjects: 0.076587 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Draggable.OnMouseEnter () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32, Int32)
+ 
+(Filename:  Line: -1)
+
+Wood
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Fireplace
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Shelves
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Jam
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+KitchenCupboard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Jam
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+KitchenCupboard
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.109336 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 136 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 3.428283 ms (FindLiveObjects: 0.079745 ms CreateObjectMapping: 0.062375 ms MarkObjects: 0.335564 ms  DeleteObjects: 0.336353 ms)
+
+UnloadTime: 1.093545 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 482.
+Total: 3.447233 ms (FindLiveObjects: 0.082904 ms CreateObjectMapping: 0.050532 ms MarkObjects: 0.415310 ms  DeleteObjects: 0.386885 ms)
+
+UnloadTime: 1.095124 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 535.
+Total: 3.106141 ms (FindLiveObjects: 0.071060 ms CreateObjectMapping: 0.051321 ms MarkObjects: 0.352145 ms  DeleteObjects: 0.193442 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Draggable.OnMouseEnter () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.HitInfo:SendMessage(String)
+UnityEngine.SendMouseEvents:SendEvents(Int32, HitInfo)
+UnityEngine.SendMouseEvents:DoSendMouseEvents(Int32, Int32)
+ 
+(Filename:  Line: -1)
+
+PaintCan
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+StainedGlass
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Torch
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Curtain
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Untagged
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.058804 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 142 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 3.308269 ms (FindLiveObjects: 0.068692 ms CreateObjectMapping: 0.056848 ms MarkObjects: 0.331616 ms  DeleteObjects: 0.396360 ms)
+
+Ester
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Dagger
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Dagger
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Sister
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.140129 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 367 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 3.725159 ms (FindLiveObjects: 0.079745 ms CreateObjectMapping: 0.059217 ms MarkObjects: 0.265293 ms  DeleteObjects: 0.847201 ms)
+
+UnloadTime: 1.472535 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 2.748469 ms (FindLiveObjects: 0.050532 ms CreateObjectMapping: 0.044215 ms MarkObjects: 0.243185 ms  DeleteObjects: 0.011843 ms)
+
+UnloadTime: 1.061962 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 3.423546 ms (FindLiveObjects: 0.044215 ms CreateObjectMapping: 0.042636 ms MarkObjects: 0.247133 ms  DeleteObjects: 0.012633 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AlignmentManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.874836 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 146 unused Assets to reduce memory usage. Loaded Objects now: 119.
+Total: 3.125091 ms (FindLiveObjects: 0.037899 ms CreateObjectMapping: 0.052900 ms MarkObjects: 0.160281 ms  DeleteObjects: 0.377411 ms)
+
+UnloadTime: 0.935632 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 554.
+Total: 3.005867 ms (FindLiveObjects: 0.064744 ms CreateObjectMapping: 0.052900 ms MarkObjects: 0.383727 ms  DeleteObjects: 0.035530 ms)
+
+UnloadTime: 0.668760 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 163 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 2.120766 ms (FindLiveObjects: 0.048952 ms CreateObjectMapping: 0.033951 ms MarkObjects: 0.183968 ms  DeleteObjects: 0.386096 ms)
+
+UnloadTime: 0.722450 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 624.
+Total: 2.269204 ms (FindLiveObjects: 0.045794 ms CreateObjectMapping: 0.036319 ms MarkObjects: 0.255818 ms  DeleteObjects: 0.048952 ms)
+
+-10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+-10
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Rock
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+ShieldShelfPlaceholder
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Shield
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Shield
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Shelves
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.498591 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 231 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 3.617778 ms (FindLiveObjects: 0.076587 ms CreateObjectMapping: 0.077377 ms MarkObjects: 0.367146 ms  DeleteObjects: 0.658495 ms)
+
+UnloadTime: 1.227770 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 102 unused Assets to reduce memory usage. Loaded Objects now: 482.
+Total: 3.290110 ms (FindLiveObjects: 0.078166 ms CreateObjectMapping: 0.054479 ms MarkObjects: 0.352145 ms  DeleteObjects: 0.387675 ms)
+
+UnloadTime: 1.095913 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 638.
+Total: 3.207205 ms (FindLiveObjects: 0.075008 ms CreateObjectMapping: 0.068692 ms MarkObjects: 0.409783 ms  DeleteObjects: 0.190284 ms)
+
+UnloadTime: 1.365944 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 245 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 3.532505 ms (FindLiveObjects: 0.082904 ms CreateObjectMapping: 0.065533 ms MarkObjects: 0.354513 ms  DeleteObjects: 0.639546 ms)
+
+Dagger
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+Lover
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.308306 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 367 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 3.963607 ms (FindLiveObjects: 0.102643 ms CreateObjectMapping: 0.063954 ms MarkObjects: 0.251081 ms  DeleteObjects: 0.862992 ms)
+
+UnloadTime: 0.975110 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 3.043766 ms (FindLiveObjects: 0.042636 ms CreateObjectMapping: 0.048163 ms MarkObjects: 0.301613 ms  DeleteObjects: 0.014212 ms)
+
+UnloadTime: 0.971162 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 3.144040 ms (FindLiveObjects: 0.044215 ms CreateObjectMapping: 0.047373 ms MarkObjects: 0.243975 ms  DeleteObjects: 0.013422 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AlignmentManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.950634 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 146 unused Assets to reduce memory usage. Loaded Objects now: 119.
+Total: 3.044555 ms (FindLiveObjects: 0.033951 ms CreateObjectMapping: 0.048952 ms MarkObjects: 0.163439 ms  DeleteObjects: 0.383727 ms)
+

@@ -1,0 +1,94 @@
+fileFormatVersion: 2
+guid: 862c284b7c74b4c46be042950a97af01
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: broken-items_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 134
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: broken-items_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 162
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: broken-items_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 69
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: broken-items_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 15
+        width: 90
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: broken-items_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 29
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
